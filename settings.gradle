@@ -1,0 +1,2 @@
+include ':yundong2', ':myapplication', ':planegame', ':gifimage', ':animation3d', ':datastorage', ':externalstoragefilesscan', ':tablayout_viewpager', ':sqllite_words_book', ':gesture_test', ':tts_test', ':mybroadcastreceiver', ':myaudiorecoder', ':takepicture'
+include ':listVideoPlayer'

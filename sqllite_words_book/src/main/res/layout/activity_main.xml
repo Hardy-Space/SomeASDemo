@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.hardy.person.sqllite_words_book.MainActivity">
+
+    <EditText
+        android:id="@+id/inputAdd"
+        android:layout_alignParentTop="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="请输入要添加的单词"
+        />
+    <Button
+        android:id="@+id/addWord"
+        android:layout_below="@id/inputAdd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="添加生单词"/>
+
+    <EditText
+        android:id="@+id/inputSelect"
+        android:layout_below="@id/addWord"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="请输入要查询的单词"
+        />
+    <Button
+        android:id="@+id/selectWord"
+        android:layout_below="@id/inputSelect"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="查询"/>
+
+
+
+
+</RelativeLayout>

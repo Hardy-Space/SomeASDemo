@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/YunDong.iml" filepath="$PROJECT_DIR$/YunDong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/animation3d/animation3d.iml" filepath="$PROJECT_DIR$/animation3d/animation3d.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datastorage/datastorage.iml" filepath="$PROJECT_DIR$/datastorage/datastorage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/externalstoragefilesscan/externalstoragefilesscan.iml" filepath="$PROJECT_DIR$/externalstoragefilesscan/externalstoragefilesscan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gesture_test/gesture_test.iml" filepath="$PROJECT_DIR$/gesture_test/gesture_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gifimage/gifimage.iml" filepath="$PROJECT_DIR$/gifimage/gifimage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listVideoPlayer/listVideoPlayer.iml" filepath="$PROJECT_DIR$/listVideoPlayer/listVideoPlayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapplication/myapplication.iml" filepath="$PROJECT_DIR$/myapplication/myapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myaudiorecoder/myaudiorecoder.iml" filepath="$PROJECT_DIR$/myaudiorecoder/myaudiorecoder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybroadcastreceiver/mybroadcastreceiver.iml" filepath="$PROJECT_DIR$/mybroadcastreceiver/mybroadcastreceiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/planegame/planegame.iml" filepath="$PROJECT_DIR$/planegame/planegame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sqllite_words_book/sqllite_words_book.iml" filepath="$PROJECT_DIR$/sqllite_words_book/sqllite_words_book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tablayout_viewpager/tablayout_viewpager.iml" filepath="$PROJECT_DIR$/tablayout_viewpager/tablayout_viewpager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/takepicture/takepicture.iml" filepath="$PROJECT_DIR$/takepicture/takepicture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tts_test/tts_test.iml" filepath="$PROJECT_DIR$/tts_test/tts_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yundong2/yundong2.iml" filepath="$PROJECT_DIR$/yundong2/yundong2.iml" />
+    </modules>
+  </component>
+</project>
